@@ -45,10 +45,6 @@
 ![Shaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=umran666&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umran666&layout=compact&theme=radical)  
 
----
-
-## 🐍 Contribution Snake  
-![snake gif](https://raw.githubusercontent.com/umran666/Umran666/output/github-contribution-grid-snake.svg)
 
 ---
 
