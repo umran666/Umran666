@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/umran666/umran666/blob/main/Banner.gif" alt="Shaik Umran | Code with me" />
+  <img src="./Banner.png" width="600" height="200" alt="My Awesome Banner Resized" />
 </p>
 
 <p align="center">
