@@ -47,9 +47,4 @@
 
 ---
 
-## 🐍 Contribution Snake  
-![snake gif](https://raw.githubusercontent.com/umran666/umran666/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐️ *From [Shaik](https://github.com/umran666)*  
