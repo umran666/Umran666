@@ -47,8 +47,8 @@
 
 ---
 
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/umran666/Umran666/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake  
+![snake gif](https://raw.githubusercontent.com/umran666/Umran666/output/github-contribution-grid-snake.svg)
 
 ---
 
