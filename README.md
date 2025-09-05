@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/umran666/umran666/blob/main/banner.png" alt="Shaik Umran | Code with me" />
+  <img src="https://github.com/umran666/umran666/blob/main/Banner.gif" alt="Shaik Umran | Code with me" />
 </p>
 
 <p align="center">
